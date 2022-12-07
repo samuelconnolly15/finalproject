@@ -1,0 +1,65 @@
+.ytvideo{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 100%;
+}
+
+body{
+    background-color: lightgray;
+    color: midnightblue;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.rest-of-body{
+    margin-right: 10%;
+    margin-left: 10%;
+    margin-top: 10%;
+    margin-bottom: 10%;
+}
+
+.boldhead{
+    font-weight: bold;
+}
+
+ul{
+    font-weight: lighter;
+}
+
+.skipic{
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    width: 50%;
+    height: auto;
+}
+
+h1{
+    text-align: center;
+    background-color: midnightblue;
+    color: floralwhite;
+}
+
+.quote{
+    text-align: center;
+    font-style: italic;
+}
+
+.videodesc{
+    text-align: center;
+
+}
+
+.kobe{
+    display: block;
+    
+    width: 5%;
+}
+
+
+.midpic{
+    width: 60%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
